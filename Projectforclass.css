@@ -1,0 +1,10 @@
+html {background-color: purple;
+  border-style: solid;
+  border-color: black;
+  border-width: 7px;
+font-size: 20px
+
+}
+img {
+  display: inline-block;
+}
